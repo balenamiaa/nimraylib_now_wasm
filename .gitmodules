@@ -1,0 +1,4 @@
+[submodule "nimraylib_now"]
+	path = nimraylib_now
+	url = https://github.com/balenamiaa/nimraylib_now.git
+	branch = wasm
